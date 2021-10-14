@@ -1,5 +1,5 @@
 # A script to change vscode's theme according to the time of the day
-
+> Also, changes the wallpaper
 ## How to add the script to cron jobs?
 
 1. use `crontab -e` to access the cron table
